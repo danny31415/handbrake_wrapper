@@ -60,4 +60,4 @@ for (in_dir,extra_tag) in options.in_dirs:
 #example
 #z:\Apps\Python31\python.exe z:\Apps\scripts\convert.py -i 'Z:\Videos\TV\SomeShow' ExtraTextForSomeShow -o 'z:\Videos\ConvertedOutput'
 #
-#-i 'Z:\Videos\The Teaching Company\TTC VIDEO - Games People Play Game Theory in Life, Business and Beyond (compressed)' GamesPeoplePlay -i 'Z:\Videos\The Teaching Company\TTC Video - Building Great Sentences - Exploring the Writer's Craft' BuildingGreatSentences -i 'Z:\Videos\The Teaching Company\FCL Series - TTC - Contemporary Economic Issues' ContemoraryEconomicIssues -o 'Z:\Videos\DannyConverted'
+
